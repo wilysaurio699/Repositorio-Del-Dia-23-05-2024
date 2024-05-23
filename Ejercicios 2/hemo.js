@@ -1,0 +1,1 @@
+var genero = alert("ingrese el genero del paciente");
